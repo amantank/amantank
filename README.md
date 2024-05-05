@@ -14,19 +14,11 @@ I'm passionate about leveraging technology to solve real-world problems. Current
 - **Web Development:** HTML/CSS, React, Node.js 
 - **Database:** SQL, MongoDB
 
-## Projects
-
-Here are a few projects I've worked on:
-
-- [Project 1 Name](link-to-project-repo): Short description of the project.
-- [Project 2 Name](link-to-project-repo): Short description of the project.
-- [Project 3 Name](link-to-project-repo): Short description of the project.
-
 ## Get in Touch
 
 I'm open to collaborations and new opportunities. Let's connect!
 
-- LinkedIn: [](link-to-linkedin)
-- Email: your.email@example.com
+- LinkedIn: [Aman Tank]([link-to-linkedin](https://www.linkedin.com/in/amantank/))
+- Email: heyamantank@outlook.com
 
 Feel free to explore my repositories to learn more about my work and interests. Thank you for visiting!
