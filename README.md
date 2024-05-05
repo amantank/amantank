@@ -18,7 +18,7 @@ I'm passionate about leveraging technology to solve real-world problems. Current
 
 I'm open to collaborations and new opportunities. Let's connect!
 
-- LinkedIn: [Aman Tank]([link-to-linkedin](https://www.linkedin.com/in/amantank/))
+- LinkedIn: [Aman Tank](https://www.linkedin.com/in/amantank/)
 - Email: heyamantank@outlook.com
 
 Feel free to explore my repositories to learn more about my work and interests. Thank you for visiting!
